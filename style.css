@@ -1,0 +1,36 @@
+.footer{
+  margin-left : 80px;
+  font-size : 18px;
+}
+.container{
+  
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px ;
+  grid-gap:10px;
+  justify-content: center;
+  margin-top: 6px;
+}
+.container div{
+  border: 1px solid;
+  width: 120px;
+  padding: 10px;
+ text-align: center;
+}
+.div3{
+ font-weight: bold;
+ font-size: 30px;
+}
+
+div img{
+  width: 120px;
+  height: 100px;
+
+}
+
+.cont{
+  margin-left: 5%;
+  margin-right: 5%;
+  box-shadow: 3px 3px 3px rgb(177, 171, 171);
+ height: 600px;
+ border: 1px solid gray;
+}
